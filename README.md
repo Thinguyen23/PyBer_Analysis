@@ -4,7 +4,7 @@ In this challenge, my task is to determine if there is a correlation between the
 
 In addition to the scatter and pie charts created in Pyber analysis, I included a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the total fare for each week by each city type.
 
-- **Summary Table
+- **Summary Table**
 
 ![summary](https://github.com/Thinguyen23/Thi_Nguyen_PyBer_Analysis/blob/master/analysis/summary.png)
 
@@ -13,7 +13,7 @@ This table showcases Total Rides, Total Drivers, Total Fares, Average Fare per R
 Although rural's total fares is relatively low as compared to suburban and urban, average fare per ride and average fare per driver are the highest among city types. Rural cities might not be the most popular choice for drivers, but it is proven to be the most profitable in terms of fare per ride. 
 
 
-- **Total Fare for Each Week by Each City Type
+- **Total Fare for Each Week by Each City Type**
 
 ![Fig8](https://github.com/Thinguyen23/Thi_Nguyen_PyBer_Analysis/blob/master/analysis/Fig8.png)
 
